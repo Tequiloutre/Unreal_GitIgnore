@@ -1,0 +1,17 @@
+.vs/
+Binaries/
+DerivedDataCache/
+AssetRegistryCache/
+Build/
+ReimportCache/
+ShaderAutogen/
+CachedAssetRegistry.bin
+Autosaves/
+Collections/
+CrashReportClient/
+WorldState/
+Logs/
+Script/
+*_BuiltData.uasset
+EditorPerProjectUserSettings.ini
+AutoScreenshot.png
